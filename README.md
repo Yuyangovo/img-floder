@@ -5,17 +5,17 @@
 
 ## Material list
 
-*1.Rraspberrypi 4B  1  
-*2.Adafruit PCA9685 16-Channel Servo Driver  1  
-*3.MG996R Servo Motor  4  
-*4.Trash can  4  
-*5.Breadboard Jumper Wires  
+1.Rraspberrypi 4B  1  
+2.Adafruit PCA9685 16-Channel Servo Driver  1  
+3.MG996R Servo Motor  4  
+4.Trash can  4  
+5.Breadboard Jumper Wires  
 
 ## Connection
 
-*GND -> RPi GND  
-*SCL -> RPi SCL0  
-*SDA -> RPi SDA0   
-*VCC -> RPi 3.3V  
+1.GND -> RPi GND    
+2.SCL -> RPi SCL0  
+3.SDA -> RPi SDA0   
+4.VCC -> RPi 3.3V  
 
 ![image](https://github.com/Yuyangovo/img-floder/blob/main/line2.jpg)
