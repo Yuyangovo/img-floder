@@ -18,3 +18,4 @@
 *SDA -> RPi SDA0   
 *VCC -> RPi 3.3V  
 
+![image](https://github.com/Yuyangovo/img-floder/blob/main/line.jpg)
