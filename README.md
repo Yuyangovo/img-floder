@@ -9,7 +9,7 @@
 2.Adafruit PCA9685 16-Channel Servo Driver  1  
 3.MG996R Servo Motor  4  
 4.Trash can  4  
-5.Breadboard Jumper Wires  
+
 
 ## Connection
 
